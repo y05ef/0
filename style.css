@@ -1,0 +1,35 @@
+/* Default CSS
+14.01.2018 21:20
+Created by @y05ef
+style.css file
+*/
+a.A {
+     color:black;}
+p.copy {
+     font-family:Gruppo;}
+h2.title {
+     font-family: Optima, sans-serif;}
+img {
+     border-radius:5%;}
+img.mypicture {
+     border-radius:50%;}
+body {
+     background-color:#f0f8ff;}
+p.blog, a{
+     font-family:american typewriter ,serif;}
+li {
+     list-style-type: none;}
+a {
+     text-decoration: none;}
+button {
+    background-color: #808080;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
